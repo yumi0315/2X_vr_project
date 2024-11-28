@@ -1,6 +1,6 @@
 # 깃 처음 설정
 $ git clone https://github.com/yumi0315/2X_vr_project.git<br>
-$ cd 클론한 프로젝트명<br>
+$ cd 2X_vr_project<br>
 $ git branch -M 브랜치이름<br>
 $ git remote add origin https://github.com/yumi0315/2X_vr_project.git<br>
 
