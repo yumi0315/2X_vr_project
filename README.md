@@ -2,6 +2,7 @@
 $ git clone https://github.com/yumi0315/2X_vr_project.git<br>
 $ cd 2X_vr_project<br>
 $ git branch -M 브랜치이름<br>
+$ git checkout 브랜치이름<br>
 $ git remote add origin https://github.com/yumi0315/2X_vr_project.git<br>
 
 # 매일 작업하고 해야하는거
